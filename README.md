@@ -3,6 +3,7 @@ Minecraft'a yalnızca Android telefonunuzda sahipseniz bu uygulamayı kullanarak
 
 ## Kullanım
 Uygulamayı çalıştırabilmek için telefonunzda USB Hata Ayıklaması'nın açık olması gerekir.
+Uygulamayı çalıştırabilmek için telefonunuzda Minecraft yüklü olması gerekir.
 #### Hotkeyler:
 F6 : Programı Kapat
 F7 : Telefon Sesini kıs
