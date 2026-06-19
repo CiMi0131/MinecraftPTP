@@ -31,7 +31,7 @@ Telefonunuzda USB Hata Ayıklamasınız açın.
 
 [HyperOS için nasıl açılır](https://github.com/CiMi0131/MinecraftPTP#hyperos-i%C3%A7in)
 
-Bilgisayarınızda #### kurulu değilse
+Bilgisayarınızda  *kurulu değilse*
  [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.28-windows-x64-installer?cid=getdotnetcore)'ı kurun
 
  Daha sonra [MinecraftPTP'nin](https://github.com/CiMi0131/MinecraftPTP/releases/tag/latest) son sürümünü bilgisayarınıza indirin.
