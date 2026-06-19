@@ -36,8 +36,17 @@ Bilgisayarınızda  *kurulu değilse*
 
  Daha sonra [MinecraftPTP'nin](https://github.com/CiMi0131/MinecraftPTP/releases/tag/latest) son sürümünü bilgisayarınıza indirin.
 
- Uygulamayı çalıştırın ve kullanmaya başlayın.
+ Uygulamayı çalıştırın
 
+ Telefonunuzu kabloyla bilgisayarınıza bağlayın.
+
+ Seçili değilse Dosya Aktarımı (MTP)'yi seçin.
+
+ Çalıştır ve Minecraft'ı aç düğmesine basın.
+
+ Minecraft otomatik olarak açılacak ve bilgisayardan telefonunuzun gücüyle Minecraft oynayabileceksiniz.
+
+######################################################
 ### Samsung için USB Hata Ayıklaması Nasıl Açılır?
 Telefonunuzda Ayarlar > Telefon hakkında > Yazılım Bilgileri 
 kısmına girin. Daha sonra yapım numarası kısmına 7 kere basın.
